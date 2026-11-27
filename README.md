@@ -86,4 +86,4 @@ Python 3.9+. No runtime dependencies.
 
 ## License
 
-[BSD 3-Clause Clear](LICENSE). This license grants no patent rights.
+[MIT](LICENSE).
